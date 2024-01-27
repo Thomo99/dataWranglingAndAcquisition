@@ -1,4 +1,3 @@
-Men's
 Round,Day,Date,Time,Home Team,Home Score,Result,Away Team,Away Score,Venue,Attendance
 Round 1,Thursday,16 March,7:20 pm,Richmond ,8.10 (58),drew with,Carlton ,8.10 (58),Melbourne Cricket Ground ,"88,084"
 Round 1,Friday,17 March,7:40 pm,Geelong ,16.7 (103),def. by,Collingwood ,19.11 (125),Melbourne Cricket Ground ,"86,595"
@@ -206,9 +205,7 @@ Round 24,Saturday,26 August,6:10 pm,West Coast ,12.6 (78),def. by,Adelaide ,17.
 Round 24,Sunday,27 August,12:00 pm,Port Adelaide ,13.16 (94),def.,Richmond ,8.15 (63),Adelaide Oval ,"39,860"
 Round 24,Sunday,27 August,3:20 pm,Sydney ,7.14 (56),def. by,Melbourne ,11.11 (77),Sydney Cricket Ground ,"41,753"
 Round 24,Sunday,27 August,6:10 pm,Carlton ,11.7 (73),def. by,Greater Western Sydney ,16.9 (105),Marvel Stadium ,"44,354"
-Women's
-Round,Day,Date,Time,Home Team,Home Score,Result,Away Team,Away Score,Venue,Attendance
-Round 1,Friday,1 September,7:20 pm,Melbourne ,10.13 (73),def.,Collingwood ,4.7 (31),Ikon Park ,"8,412"
+Round 1,Friday,1 September,7:20 pm,Melbourne ,10.13 (73),def.,Collingwood ,13.10 (88),Ikon Park ,"8,412"
 Round 1,Saturday,2 September,1:05 pm,Carlton ,5.4 (34),def.,Gold Coast ,4.8 (32),Ikon Park ,"3,244"
 Round 1,Saturday,2 September,2:35 pm,Adelaide ,8.10 (58),def.,Port Adelaide ,4.4 (28),Norwood Oval ,"8,722"
 Round 1,Saturday,2 September,5:05 pm,Geelong ,10.5 (65),def.,Western Bulldogs ,2.5 (17),GMHBA Stadium ,"4,404"
